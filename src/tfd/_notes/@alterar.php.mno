@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<info>
+	<infoitem key="UD_recAlterar" value="name:idp;datatype:int,name:pnome;datatype:string,name:prg;datatype:string,name:ptel;datatype:string,name:ptel2;datatype:string,name:prua;datatype:string,name:pnum;datatype:string,name:pbairro;datatype:string" />
+</info>

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<info>
+	<infoitem key="UD_recInternacao" value="name:idint;datatype:int,name:idpac;datatype:string,name:ivalor;datatype:real,name:ivalorextenso;datatype:string,name:icidade;datatype:string,name:ihospital;datatype:string,name:ihora;datatype:string,name:iretorno;datatype:string,name:iacompanhante;datatype:string,name:iacompanhante2;datatype:string,name:ipagantes;datatype:string,name:idia;datatype:string,name:imes;datatype:string,name:iano;datatype:string,name:itipo;datatype:string,name:istatus;datatype:string,name:edia;datatype:string,name:emes;datatype:string,name:eano;datatype:string,name:exame;datatype:string,name:especialidade;datatype:string,name:sala;datatype:string,name:medico;datatype:string,name:origemconsulta;datatype:string,name:urgencia;datatype:string,name:numeroagend;datatype:string" />
+	<infoitem key="UD_recpaciente" value="name:idint;datatype:int,name:istatus;datatype:string,name:urgencia;datatype:string,name:edia;datatype:string,name:emes;datatype:string,name:eano;datatype:string" />
+</info>

@@ -1,0 +1,6 @@
+.vscode
+src/phpmyadmin
+src/anonimizacao.php
+src/nomes_brasileiros.php
+src/nomes_estrangeiros.php
+src/nomes_personagens.php

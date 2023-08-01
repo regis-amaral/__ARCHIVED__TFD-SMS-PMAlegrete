@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<info>
+	<infoitem key="UD_rechospital" value="name:hospital;datatype:string,name:abreviatura;datatype:string,name:cidade;datatype:string" />
+	<infoitem key="UD_reccidade" value="name:id;datatype:int,name:cidade;datatype:string,name:sigla;datatype:string,name:nome;datatype:string" />
+</info>

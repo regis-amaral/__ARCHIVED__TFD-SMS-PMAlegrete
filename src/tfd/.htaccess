@@ -1,0 +1,11 @@
+Options -Indexes
+
+DirectoryIndex busca.php
+
+RewriteEngine On
+RewriteBase /
+
+# Redirecionar todas as solicitações não correspondentes a busca.php
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule ^ busca.php [L]

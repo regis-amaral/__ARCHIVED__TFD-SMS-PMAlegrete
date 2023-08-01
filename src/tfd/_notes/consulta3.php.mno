@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<info>
+	<infoitem key="UD_recPesquisa" value="name:id;datatype:int,name:nome;datatype:string,name:identidade;datatype:string,name:cpf;datatype:string,name:telefone;datatype:string,name:celular;datatype:string,name:rua;datatype:string,name:bairro;datatype:string,name:cidade;datatype:string,name:estado;datatype:string" />
+</info>

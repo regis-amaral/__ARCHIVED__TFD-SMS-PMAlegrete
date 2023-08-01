@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<info>
+	<infoitem key="UD_rechospital" value="name:id;datatype:int,name:hospital;datatype:string,name:abreviatura;datatype:string,name:cidade;datatype:string" />
+	<infoitem key="UD_reccidade" value="name:id;datatype:int,name:nome;datatype:string,name:sigla;datatype:string" />
+	<infoitem key="UD_recInternacao" value="name:idint;datatype:int,name:idpac;datatype:string,name:ivalor;datatype:real,name:ivalorextenso;datatype:string,name:icidade;datatype:string,name:ihospital;datatype:string,name:ihora;datatype:string,name:iretorno;datatype:string,name:iacompanhante;datatype:string,name:iacompanhante2;datatype:string,name:ipagantes;datatype:string,name:idia;datatype:string,name:imes;datatype:string,name:iano;datatype:string,name:itipo;datatype:string,name:istatus;datatype:string,name:edia;datatype:string,name:emes;datatype:string,name:eano;datatype:string,name:exame;datatype:string,name:especialidade;datatype:string,name:sala;datatype:string,name:medico;datatype:string,name:origemconsulta;datatype:string,name:urgencia;datatype:string,name:numeroagend;datatype:string" />
+	<infoitem key="UD_recPac" value="name:idp;datatype:int,name:pnome;datatype:string,name:prg;datatype:string,name:ptel;datatype:string,name:ptel2;datatype:string,name:prua;datatype:string,name:pnum;datatype:string,name:pbairro;datatype:string,name:pcartao;datatype:string,name:pnasc;datatype:string,name:pnatur;datatype:string,name:psexo;datatype:string,name:ppai;datatype:string,name:pmae;datatype:string,name:pcomp;datatype:string,name:pcep;datatype:string" />
+	<infoitem key="UD_recMedico" value="name:id;datatype:int,name:nome;datatype:string" />
+	<infoitem key="UD_recEspecialidade" value="name:id;datatype:int,name:especialidade;datatype:string" />
+	<infoitem key="UD_recExame" value="name:id;datatype:int,name:exame;datatype:string" />
+</info>

@@ -1,0 +1,48 @@
+.tabelas {
+	font-variant: normal;
+	font-size: 10px;
+	line-height: 14px;
+	font-family: "Times New Roman", Times, serif;
+	text-transform: uppercase;
+	color: #000000;
+	border: 1px solid #666666;
+	vertical-align: middle;
+	font-weight: normal;
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
+.botoes {
+	font-family: "Times New Roman", Times, serif;
+	font-size: x-small;
+	height: 15px;
+	width: 60px;
+}
+.cabectabelas {
+	font-family: "Times New Roman", Times, serif;
+	font-size: 11px;
+	font-weight: bold;
+	text-transform: uppercase;
+	vertical-align: middle;
+	height: 10px;
+
+
+
+}
+.tabboton {
+	vertical-align: top;
+	text-align: center;
+	border: 1px solid #666666;
+
+
+}

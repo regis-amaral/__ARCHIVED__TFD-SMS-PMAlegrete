@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<info>
+	<infoitem key="UD_recpaciente" value="name:idp;datatype:int,name:pnome;datatype:string,name:prg;datatype:string,name:ptel;datatype:string,name:ptel2;datatype:string,name:prua;datatype:string,name:pnum;datatype:string,name:pbairro;datatype:string,name:idint;datatype:int,name:idpac;datatype:string,name:ivalor;datatype:real,name:ivalorextenso;datatype:string,name:icidade;datatype:string,name:ihospital;datatype:string,name:ihora;datatype:string,name:iretorno;datatype:string,name:iacompanhante;datatype:string,name:iacompanhante2;datatype:string,name:ipagantes;datatype:string,name:idia;datatype:string,name:imes;datatype:string,name:iano;datatype:string" />
+	<infoitem key="UD_rectotal" value="name:cidade;datatype:string,name:sigla;datatype:string" />
+	<infoitem key="UD_reccidade" value="name:cidade;datatype:string,name:sigla;datatype:string" />
+</info>

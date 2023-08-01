@@ -1,0 +1,10 @@
+Options -Indexes
+
+RewriteEngine On
+RewriteBase /
+
+# Verificar se a solicitação não está na pasta /tfd/
+RewriteCond %{REQUEST_URI} !^/tfd/
+
+# Redirecionar todas as solicitações para a subpasta /tfd/ (redirecionamento externo)
+RewriteRule ^$ /tfd/ [R,L]

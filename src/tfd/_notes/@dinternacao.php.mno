@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<info>
+	<infoitem key="UD_recDeleta" value="name:idint;datatype:int,name:idpac;datatype:string,name:ivalor;datatype:string,name:ivalorextenso;datatype:string,name:icidade;datatype:string,name:iacompanhante;datatype:string,name:iacompanhante2;datatype:string,name:idia;datatype:string,name:imes;datatype:string,name:iano;datatype:string" />
+</info>

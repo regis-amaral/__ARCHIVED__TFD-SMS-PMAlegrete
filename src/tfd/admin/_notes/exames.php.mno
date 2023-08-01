@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<info>
+	<infoitem key="UD_recExames" value="name:id;datatype:int,name:exame;datatype:string" />
+</info>
