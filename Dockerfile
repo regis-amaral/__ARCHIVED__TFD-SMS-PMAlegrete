@@ -1,12 +1,4 @@
-FROM scratch
-
-ENV DEBIAN_FRONTEND=noninteractive
-
-ADD conf/ubuntu-8.10-root.tar.xz /
-COPY conf/sources.list /etc/apt/sources.list
-RUN apt-get update && apt-get upgrade -y
-RUN apt-get install -yq --no-install-recommends \
-    curl php5 php5-common php5-curl php5-cli php5-gd php5-imap php5-mcrypt php5-mysql mysql-server nano
+FROM regisamaral/ubuntu:intrepid
 
 COPY conf/start.sh /etc/init.d/start.sh
 RUN chmod +x /etc/init.d/start.sh
